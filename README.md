@@ -1,8 +1,7 @@
 <img align="center" alt="cover-gif" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" /> 
-
 <br />
-# 💫 About Me:
-Hi 👋, I'm Söùrãv, A passionate full-stack developer from India<br>
+<h1>💫 About Me:</h1>
+<h3>Hi 👋, I'm Söùrãv, A passionate full-stack developer from India</h3><br>
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 🌱 I’m currently learning Python and DSA<br><br>🤝 I’m looking for help with Python and DSA<br><br>💬 Ask me about Full-stack and MERN-stack<br><br>📫 How to reach me souravpramanick@gmail.com<br><br>⚡ Fun fact Nothing!!
 
