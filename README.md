@@ -1,7 +1,7 @@
 <img align="center" alt="cover-gif" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" /> 
 <h1 align="center">Hi 👋, I'm Söùrãv</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="center" alt="Banner" src="[https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)"/>
+<img align="center" alt="Banner" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-at-github&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-at-github" /> </p>
 
