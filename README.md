@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Söùrãv</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="left" alt="Banner" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
-<br/>
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-at-github&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-at-github" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-at-github" alt="sourav-at-github" /></a> </p>
